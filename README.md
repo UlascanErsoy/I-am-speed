@@ -2,9 +2,9 @@
 
 The purpose of this project is to keep track of my apartments abysmal internet speeds.
 
-Thanks Suddenly is now Optimum Broadband.
+Thanks `Suddenlink is now Optimum Broadband`.
 
-I am in-fact **not** speed :(
+I am in fact **not** speed :(
 
 ![](img/iamnotspeed.jpeg)
 
